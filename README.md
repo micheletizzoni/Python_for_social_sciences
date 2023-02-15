@@ -1,2 +1,2 @@
-# Python_for_social_sciences
+# Introduzione alla programmazione Python per le scienze sociali
  
